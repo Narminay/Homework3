@@ -90,7 +90,7 @@
 //}
 #endregion
 
-#region n və m (n<m) ədədləri arasında neçə tək ədəd var
+#region Task 5: n və m (n<m) ədədləri arasında neçə tək ədəd var
 //Console.WriteLine("n-i seçin:");
 //int n = Convert.ToInt32(Console.ReadLine());
 //Console.WriteLine("m-i seçin:");
